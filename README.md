@@ -29,3 +29,9 @@ This is a web-based application designed to provide a seamless and visually appe
    - Event listeners attached to song list items to handle click events.
    - Functions to fetch and play the corresponding YouTube video using the YouTube IFrame API.
    - Logic to update the UI based on playback status, ensuring a cohesive user experience.
+  
+
+## Website Snippet:
+
+![image](https://github.com/user-attachments/assets/7dc65037-cf19-4021-b7dc-e3c8c70bbe2f)
+
